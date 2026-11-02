@@ -1,0 +1,140 @@
+[
+ {
+  "id": "m01",
+  "kind": "Ma'ruza",
+  "num": 1,
+  "title": "Amaliy san'at va uning turlari"
+ },
+ {
+  "id": "m02",
+  "kind": "Ma'ruza",
+  "num": 2,
+  "title": "Naqqoşlik san'ati"
+ },
+ {
+  "id": "m03",
+  "kind": "Ma'ruza",
+  "num": 3,
+  "title": "Naqqoşlik san'atida işlatiladigan asbob-uskunalar va materiallar"
+ },
+ {
+  "id": "m04",
+  "kind": "Ma'ruza",
+  "num": 4,
+  "title": "Naqqoşlik ustaxonalarini jihozlaş va texnika xavfsizligi"
+ },
+ {
+  "id": "m05",
+  "kind": "Ma'ruza",
+  "num": 5,
+  "title": "Rangşunoslik va böyoqlardan foydalaniş texnologiyasi"
+ },
+ {
+  "id": "m06",
+  "kind": "Ma'ruza",
+  "num": 6,
+  "title": "Amaliy bezak san'atida naqş va uning turlari"
+ },
+ {
+  "id": "m07",
+  "kind": "Ma'ruza",
+  "num": 7,
+  "title": "Naqqoşlik san'atida kompozitsiyaning örni"
+ },
+ {
+  "id": "m08",
+  "kind": "Ma'ruza",
+  "num": 8,
+  "title": "Hajmli buyumlarni badiiy bezaş"
+ },
+ {
+  "id": "m09",
+  "kind": "Ma'ruza",
+  "num": 9,
+  "title": "Badiiy bezak işlarida yozuvlar. Yozuv kompozitsiyalari"
+ },
+ {
+  "id": "m10",
+  "kind": "Ma'ruza",
+  "num": 10,
+  "title": "Interyer va eksteryerning badiiy bezatilişi"
+ },
+ {
+  "id": "a01",
+  "kind": "Amaliy",
+  "num": 1,
+  "title": "Oddiy naqş elementlarini çiziş. Gul va barg çiziş"
+ },
+ {
+  "id": "a02",
+  "kind": "Amaliy",
+  "num": 2,
+  "title": "Oddiy naqş elementlarini çiziş. Gul va barg çiziş. Quriş"
+ },
+ {
+  "id": "a03",
+  "kind": "Amaliy",
+  "num": 3,
+  "title": "Oddiy naqş elementlarini çiziş. Gul va barg çiziş. Kompozitsiya"
+ },
+ {
+  "id": "a04",
+  "kind": "Amaliy",
+  "num": 4,
+  "title": "Oddiy naqş elementlarini çiziş. Gul va barg çiziş (böyaş va pardoz)"
+ },
+ {
+  "id": "a05",
+  "kind": "Amaliy",
+  "num": 5,
+  "title": "Naqqoşlik san'atiga xos yöl içidagi 10 ta naqş elementlarini çiziş"
+ },
+ {
+  "id": "a06",
+  "kind": "Amaliy",
+  "num": 6,
+  "title": "Naqqoşlik san'atiga xos yöl içidagi 10 ta naqş kompozitsiyalarini çiziş"
+ },
+ {
+  "id": "a07",
+  "kind": "Amaliy",
+  "num": 7,
+  "title": "Naqqoşlik san'atiga xos yöl içidagi 10 ta naqş elementlarini çiziş (böyaş va pardoz)"
+ },
+ {
+  "id": "a08",
+  "kind": "Amaliy",
+  "num": 8,
+  "title": "Murakkab naqş kompozitsiyalarini tuziş"
+ },
+ {
+  "id": "a09",
+  "kind": "Amaliy",
+  "num": 9,
+  "title": "Naqqoşlik san'atiga xos islimiy, girih, gulli girih hamda madohil naqş kompozitsiyalarini tuziş, böyaş va pardozlaş"
+ },
+ {
+  "id": "a10",
+  "kind": "Amaliy",
+  "num": 10,
+  "title": "Sovğa buyumlarini naqşlaş"
+ },
+ {
+  "id": "a11",
+  "kind": "Amaliy",
+  "num": 11,
+  "title": "Buyum yuzasiga mos naqş kompozitsiyasini tuziş, kolorit asosida rang, pardozlaş, buyumni laklaş"
+ },
+ {
+  "id": "a12",
+  "kind": "Amaliy",
+  "num": 12,
+  "title": "Şrift, vizual, kommunikatsion belgilar"
+ },
+ {
+  "id": "a13",
+  "kind": "Amaliy",
+  "num": 13,
+  "title": "Plakat şriftini yozib, rangda böyaş"
+ }
+]
